@@ -7,7 +7,8 @@
   post
     https://v.hbu.cn/do-login
 
-headers
+headers  
+
     Host: v.hbu.cn  
     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0  
     Accept: */*  
@@ -36,7 +37,9 @@ wengine_vpn_ticketv_hbu_cn做为cookie使用
 
   post  
     https://v.hbu.cn/http/77726476706e69737468656265737421eaff4b8b69386a45300b87/sigin
+
 headers  
+
     Host: v.hbu.cn  
     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0  
     Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8  
