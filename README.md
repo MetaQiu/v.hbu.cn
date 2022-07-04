@@ -25,7 +25,7 @@ headers
     Accept-Encoding: gzip, deflate  
     Content-Length: 119  
   
-  body
+  body  
 auth_type=local&username=学号&sms_code=&password=密码&captcha=&needCaptcha=false
 
 
